@@ -1,57 +1,79 @@
-<h1 align="center">Manish Tula</h1>
-<p align="center">
-  <b>Builder • Apple Developer • Google Developers (GEAR)</b>
-</p>
+# Manish Tula
 
-<p align="center">
-  <i>Building things that actually matter 🚀</i>
-</p>
+## Developer | AI Research Enthusiast
+
+I am a high school developer focused on building impactful technology at the intersection of artificial intelligence, education, and user experience. My work combines product development with research into how intelligent systems influence learning, behavior, and decision-making.
 
 ---
 
-## 🚀 About Me
-- 🍎 Apple Developer  
-- 🌐 Google Developers Program (GEAR)  
-- 🏁 McLaren Early Talent Pool  
-- 🥇 IMO & NSO Gold Medalist | 🥉 IEO  
-- 🤖 AI/ML Certified (Google + Microsoft)  
+## Current Focus
+
+- Developing **Neurova**, an AI-based system designed to understand user behavior and improve interaction quality  
+- Conducting research on **AI-assisted learning vs independent learning** (MindTrace AI / Cognyra)  
+- Building data-driven and user-centric applications  
+- Strengthening problem-solving skills in computer science and mathematics  
 
 ---
 
-## ⚡ What I Do
-- Build real-world apps  
-- Explore AI & automation  
-- Share ideas through tech + content  
-- Constantly improving  
+## Technical Skills
+
+### Programming Languages
+- Python  
+- JavaScript  
+- Swift  
+
+### Technologies and Tools
+- Node.js  
+- Firebase  
+- Git and GitHub  
+- REST APIs  
+
+### Core Areas
+- Artificial Intelligence and Machine Learning (foundational concepts)  
+- Data Analysis  
+- UI/UX Design (basic)  
 
 ---
 
-## 🛠️ Tech Stack
-- Python • JavaScript • Swift  
-- Git • GitHub • VS Code • Xcode  
-- AI/ML • App Dev • Web Dev  
+## Projects
+
+### Neurova
+AI-driven system focused on adaptive responses and user understanding  
+
+### Lockln
+Web platform built with a structured and secure system architecture  
+
+> Additional projects are currently in development
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibeastmanish&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibeastmanish&theme=tokyonight&hide_border=true" />
-</p>
+## Experience and Programs
+
+- Stanford Code in Place 2026  
+- NASA Citizen Science Programs  
+- Project Green (sustainability and environmental initiatives)  
+- Google Developer and Cloud Community Member  
+- NVIDIA Developer Program Community Member  
 
 ---
 
-## 🌍 Connect
-- 💼 LinkedIn: https://linkedin.com/in/manish-tula  
-- 📫 Email: manishtula7777@gmail.com  
+## Achievements
+
+- International Mathematics Olympiad (IMO) Gold Medalist  
+- National Science Olympiad (NSO) Gold Medalist  
+- International English Olympiad (IEO) Bronze Medalist  
+- Apple Developer  
+- McLaren Racing Early Talent Pool (Shortlisted)  
 
 ---
 
-<p align="center">
-  ⚡ <b>Build fast. Stay sharp. Stay ahead.</b>
-</p>
+## Contact
 
-<!---
-ibeastmanish/ibeastmanish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: manishtula7777@gmail.com  
+- GitHub: https://github.com/YOUR_USERNAME  
+
+---
+
+## Statement
+
+I focus on building systems that are technically strong, research-driven, and designed to create meaningful real-world impact.
