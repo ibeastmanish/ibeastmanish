@@ -70,7 +70,7 @@ Web platform built with a structured and secure system architecture
 ## Contact
 
 - Email: manishtula7777@gmail.com  
-- GitHub: https://github.com/YOUR_USERNAME  
+- GitHub: https://github.com/ibeastmanish
 
 ---
 
