@@ -1,79 +1,57 @@
-# Manish Tula
+# ibeastmanish
 
-## Developer | AI Research Enthusiast
+> Memorable developer positioning.
 
-I am a high school developer focused on building impactful technology at the intersection of artificial intelligence, education, and user experience. My work combines product development with research into how intelligent systems influence learning, behavior, and decision-making.
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
----
-
-## Current Focus
-
-- Developing **Neurova**, an AI-based system designed to understand user behavior and improve interaction quality  
-- Conducting research on **AI-assisted learning vs independent learning** (MindTrace AI / Cognyra)  
-- Building data-driven and user-centric applications  
-- Strengthening problem-solving skills in computer science and mathematics  
-
----
-
-## Technical Skills
-
-### Programming Languages
-- Python  
-- JavaScript  
-- Swift  
-
-### Technologies and Tools
-- Node.js  
-- Firebase  
-- Git and GitHub  
-- REST APIs  
-
-### Core Areas
-- Artificial Intelligence and Machine Learning (foundational concepts)  
-- Data Analysis  
-- UI/UX Design (basic)  
-
----
-
+## Header
+> Editing this section in the inspector.
+Hi, I'm **ibeastmanish**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ibeastmanish&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=ibeastmanish&theme=github-dark&style=terminal" alt="ibeastmanish hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ibeastmanish&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=ibeastmanish&theme=github-dark&style=terminal" alt="ibeastmanish about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ibeastmanish&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=ibeastmanish&theme=github-dark&style=terminal" alt="ibeastmanish stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ibeastmanish&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=ibeastmanish&theme=github-dark&style=terminal" alt="ibeastmanish stats section" />
+  </picture>
+</p>
 ## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ibeastmanish&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=ibeastmanish&theme=github-dark&style=terminal" alt="ibeastmanish projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ibeastmanish&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=ibeastmanish&theme=github-dark&style=terminal" alt="ibeastmanish social section" />
+  </picture>
+</p>
 
-### Neurova
-AI-driven system focused on adaptive responses and user understanding  
-
-### Lockln
-Web platform built with a structured and secure system architecture  
-
-> Additional projects are currently in development
-
----
-
-## Experience and Programs
-
-- Stanford Code in Place 2026  
-- NASA Citizen Science Programs  
-- Project Green (sustainability and environmental initiatives)  
-- Google Developer and Cloud Community Member  
-- NVIDIA Developer Program Community Member  
-
----
-
-## Achievements
-
-- International Mathematics Olympiad (IMO) Gold Medalist  
-- National Science Olympiad (NSO) Gold Medalist  
-- International English Olympiad (IEO) Bronze Medalist  
-- Apple Developer  
-- McLaren Racing Early Talent Pool (Shortlisted)  
-
----
-
-## Contact
-
-- Email: manishtula7777@gmail.com  
-- GitHub: https://github.com/ibeastmanish
-
----
-
-## Statement
-
-I focus on building systems that are technically strong, research-driven, and designed to create meaningful real-world impact.
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
